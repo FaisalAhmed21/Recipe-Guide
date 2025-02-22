@@ -9,3 +9,7 @@ HOW TO USE THE CODE:
 2. Select "Open with Live Server" by doing a right-click on the name of the index.html file.
 
 Have fun!
+
+Website link:
+
+https://faisalahmed21.github.io/Recipe-Guide/
